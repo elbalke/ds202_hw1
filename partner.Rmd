@@ -1,0 +1,20 @@
+---
+title: "partner.Rmd"
+author: "Caleb Purcell"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. partner name: Elizabeth Balke 
+github username: elbalke
+
+2. The owner committed hw1.Rmd and hw1.html 
+commit ID: b3632bad1f1d1f71360b5dd2bab884e46877e698
+
+3. I was able to knit hw1.Rmd only after commenting out the jpg file
+
+4. The only difficulty was knitting the .Rmd file with an image, but removing the image solved the problem
