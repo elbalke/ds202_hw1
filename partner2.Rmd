@@ -1,0 +1,18 @@
+---
+title: "partner2.Rmd"
+author: "Patrick Wenzel"
+date: "8/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+-Elisabeth Balke (GitHub Username: elbalke)
+
+-She committed hw1.Rmd and hw1.html with commit ID: b3632bad1f1d1f71360b5dd2bab884e46877e698
+
+-I ran into an error with the jpg file but after I commented that out it worked.
+
+-Other than commenting out the image (since I did not have a jpg with that file name in my directory) I had no issues.

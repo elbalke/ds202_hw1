@@ -39,8 +39,7 @@ As a pre-requisite of this homework, first install R, and then the RStudio (the 
     
     Research assistants for media planning and buying firms take in a lot of information to choose efficent media buys in political and consumer advertising. I had experience doing this as the data intern with [National Media](https://natmedia.com/#process) (a research, planning, & placement political ad firm) over this summer. Using data science methods to analyze hundreds of thousands of voter files, and billions of dollars in political ad placements speeds up the process of evaluation considerably.
     
-    
-![*Data Science plays into the role of Media Researcher in Political Advertising*](DataSci.jpg) 
+    (No Image)
     
   
 5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
